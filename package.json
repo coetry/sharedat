@@ -1,0 +1,17 @@
+{
+  "name": "datgallery",
+  "description": "a simple photo archive, powerd by the dat:// protocol",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/coetry/datgallery.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dat-node": "^3.5.13"
+  },
+  "devDependencies": {},
+  "author": "Allen Hai <allenhai03@gmail.com> (https://allenhai.now.sh)"
+}
